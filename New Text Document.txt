@@ -5,10 +5,10 @@
        background-color: lightblue;
      }
  h1{
-    color:green;
+    color:blue;
    }
  #special{
-    color:blue;
+    color:green;
  }
  .classStyle
   {
